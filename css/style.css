@@ -1,0 +1,37 @@
+body
+{
+	background-color: lightseagreen;
+}
+h1
+{
+	color: blue;
+	background-color: yellowgreen;
+	border: 3px dotted steelblue;
+	font-family: verdana;
+}
+h3
+{
+	color: red;
+	background-color: darkgoldenrod;
+	font-family: papyrus;
+	text-align: center;
+}
+p
+{
+	color: hotpink;
+	text-align: right;
+}
+table, tr, td, th
+{
+	border: 3px solid purple;
+	border-collapse: collapse;
+}
+th
+{
+	background-color: black;
+	color: ghostwhite;
+}
+tr:hover 
+{
+	background-color: greenyellow;
+}

@@ -1,0 +1,45 @@
+
+body {
+	margin: 0;
+	font-family: Arial, sans-serif;
+
+
+	display: grid;
+	grid-template-columns: 70% 30%;
+	height: 100vh;
+}
+
+
+.left-column {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 20px;
+}
+
+
+.wifa h1 {
+	margin: 0 0 20px 0;
+	font-size: 40px;
+}
+
+.T2 h1 {
+	text-align: left;
+}
+
+
+.nav {
+	border-left: 2px solid black;
+	padding: 20px;
+	height: 100%;
+}
+
+
+.nav a {
+	text-decoration: none ;
+	color: black;
+	font-size: 18px;
+	display: black;
+	margin-bottom: 15px;
+}
